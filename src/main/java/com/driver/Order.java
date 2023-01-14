@@ -9,6 +9,7 @@ public class Order {
 
         // The deliveryTime has to converted from string to int and then stored in the attribute
         //deliveryTime  = HH*60 + MM
+
     }
 
     public String getId() {

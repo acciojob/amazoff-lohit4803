@@ -21,4 +21,3 @@ public class DeliveryPartner {
     public void setNumberOfOrders(Integer numberOfOrders) {
         this.numberOfOrders = numberOfOrders;
     }
-}
